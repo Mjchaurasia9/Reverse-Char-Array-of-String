@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.AssemblyInfo.cs
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/charReverse/bin/Debug/net6.0/charReverse
+/home/mjchaurasia/C#/charReverse/bin/Debug/net6.0/charReverse.deps.json
+/home/mjchaurasia/C#/charReverse/bin/Debug/net6.0/charReverse.runtimeconfig.json
+/home/mjchaurasia/C#/charReverse/bin/Debug/net6.0/charReverse.dll
+/home/mjchaurasia/C#/charReverse/bin/Debug/net6.0/charReverse.pdb
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.dll
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/refint/charReverse.dll
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.pdb
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/charReverse.genruntimeconfig.cache
+/home/mjchaurasia/C#/charReverse/obj/Debug/net6.0/ref/charReverse.dll
